@@ -1,6 +1,6 @@
 # Hi there 👋
 ## Upskill student (outsystem class).
-### always ready to work.
+### Always ready to work.
 <!--
 **JPaiva89/Jpaiva89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
