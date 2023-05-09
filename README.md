@@ -3,6 +3,7 @@
 ## Energetic, Happy, Fun.
 
 ### Upskill student, Outsystem Class.
+⚡ any tip that you have, feel free to share.
 <!--
 **JPaiva89/Jpaiva89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
